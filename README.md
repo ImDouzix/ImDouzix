@@ -10,13 +10,11 @@
 
 <div align="center">
  
-- I'm currently 15, and I'm working on my **CS Club's Platform**
+- I'm currently 15, and I'm working on **Codeva**
 
 - I'm currently learning **C++ & SQL**
 
 - Ask me about **Nodejs, Express, Typescript/JavaScript, Python, HTML/CSS, React, MongoDB, WebSockets, and more...**
-
-- Fun Fact **I started coding just to make a custom discord bot, yet I couldn't leave this amazing field**
 
  </div>
  
